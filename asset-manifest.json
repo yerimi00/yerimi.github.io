@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d71bdfb.css",
+    "main.js": "/static/js/main.466f9e54.js",
+    "static/media/useMethod2.png": "/static/media/useMethod2.5722dc70bdcced35f2a7.png",
+    "static/media/useMethod1.png": "/static/media/useMethod1.3b473165acce116a60f1.png",
+    "static/media/useMethod3.png": "/static/media/useMethod3.3903f4adafe5ab550ea8.png",
+    "static/media/logo.png": "/static/media/logo.a8ee3d534cbad4e0c3c0.png",
+    "static/media/companyPartner_backImg.png": "/static/media/companyPartner_backImg.afe006b768eb2366e46f.png",
+    "static/media/어르신.png": "/static/media/어르신.9671a1217b1e08cabef0.png",
+    "static/media/SpinnerLogo.gif": "/static/media/SpinnerLogo.03c88597129240c02ec2.gif",
+    "static/media/loading.gif": "/static/media/loading.6bcf56fc3459ad8d638d.gif",
+    "static/media/지도.png": "/static/media/지도.719d6c569976a6462a83.png",
+    "static/media/person.svg": "/static/media/person.dd458ca9b88e417be3fce40e501b92df.svg",
+    "index.html": "/index.html",
+    "main.6d71bdfb.css.map": "/static/css/main.6d71bdfb.css.map",
+    "main.466f9e54.js.map": "/static/js/main.466f9e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d71bdfb.css",
+    "static/js/main.466f9e54.js"
+  ]
+}
